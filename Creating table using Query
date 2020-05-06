@@ -1,0 +1,5 @@
+Create Table tblGender 
+(
+ID int not null Primary Key,
+Gender nvarchar(50) not null,
+)
